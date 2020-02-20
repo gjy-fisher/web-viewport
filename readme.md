@@ -5,6 +5,7 @@
 
 ## Usage
 ```javascript
+// es6
 import viewportInit from './viewport.js'
 viewportInit(window, { px_to_rem: 100 })
 ```
