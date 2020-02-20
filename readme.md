@@ -10,5 +10,5 @@ viewportInit(window, { px_to_rem: 100 })
 ```
 
 ## options: { px_to_rem: number, fixHeight: bool }
-* px_to_rem: 1个rem对应的100px
+* px_to_rem: 1个rem对应多少px
 * fixHeight: 是否以视口高度来计算比例
